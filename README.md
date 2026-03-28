@@ -1,4 +1,3 @@
-# icml2026-rebuttal-appendix
 # Rebuttal Appendix
 
 ## 1. CAMEL Components Ablation Study
