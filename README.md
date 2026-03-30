@@ -127,7 +127,7 @@
 | PA      | 0.5877 (0.0002)   | 0.4677 (0.0073)  | 0.4346 (0.0153)  |
 | Average | 0.6275 (0.0000)   | 0.5808 (0.0000)  | 0.4982 (0.0000)  |
 
-### 2.4 Large Scale Experiments
+## 3. Large Scale Experiments
 
 #### Table 12. Latency (seconds) under different request volumes and concurrency settings
 
