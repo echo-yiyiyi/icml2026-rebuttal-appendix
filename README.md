@@ -69,9 +69,9 @@
 | GPT-4 (LLM) ↔ Ollama-20b | 0.505 | Moderate |
 | GPT-4 (LLM) ↔ CAMEL-20b (Agent) | 0.504 | Moderate |
 
+[1] Landis JR, Koch GG. The measurement of observer agreement for categorical data. Biometrics. 1977 Mar;33(1):159-74. PMID: 843571.
 
-#### Table 6. Model-level rank correlations (point-wise scoring, 31 models). Model-level rankings are near-identical across all judges, demonstrating that conclusions are not artifacts of any single judge:
-
+#### Table 6. Model-level rank correlations (point-wise scoring, 31 models).
 | Judge Pair | Spearman rho | Top-5 Overlap |
 |-----------|-------------|---------------|
 | GPT-4 ↔ CAMEL oss-120b | **0.974** | 5/5 (100%) |
