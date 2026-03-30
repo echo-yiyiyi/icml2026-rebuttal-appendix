@@ -100,7 +100,7 @@
 
 ### 2.3 Others
 
-#### Table 9. ViStoryBench: Human–LLM Agreement and Correlation (Three volunteers independently rated the final videos on four dimensions, with scores averaged across annotators. Agreement is computed for human-only evaluators and across LLM judges (GPT-4.1 and Gemini-3-Flash).)
+#### Table 9. Scholarly Video Abstract Generation: Human–LLM Agreement and Correlation (Three volunteers independently rated the final videos on four dimensions, with scores averaged across annotators. Agreement is computed for human-only evaluators and across LLM judges (GPT-4.1 and Gemini-3-Flash).)
 
 | Evaluation Group                         | Agreement Score |
 |------------------------------------------|-----------------|
